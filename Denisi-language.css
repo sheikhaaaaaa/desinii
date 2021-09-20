@@ -1,0 +1,32 @@
+body {
+    background-image: url(./Denisi.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0px;
+}
+
+.main-div {
+    margin-top: 180px;
+    margin-left: 860px;
+}
+
+.welcome-p {
+    margin-right: 50px;
+    font-size: 35px;
+}
+
+.input {
+    margin-left: 10px;
+    position: absolute;
+    width: 32%;
+    height: 35px;
+}
+
+.denisi-icon {
+    margin-bottom: -80px;
+}
+
+.icon-button {
+    border: none;
+    background-color: white;
+}
